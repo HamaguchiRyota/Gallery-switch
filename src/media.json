@@ -1,0 +1,11 @@
+{
+    "images": [
+        {"path": "media/1.jpg", "title": "Image 1"},
+        {"path": "media/2.jpg", "title": "Image 2"}
+    ],
+    "videos": [
+        {"path": "media/1.mp4", "title": "Video 1"},
+        {"path": "media/2.mp4", "title": "Video 2"},
+        {"path": "media/3.mp4", "title": "Video 3"}
+    ]
+}
